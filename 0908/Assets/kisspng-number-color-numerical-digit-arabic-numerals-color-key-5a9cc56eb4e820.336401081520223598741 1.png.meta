@@ -1,0 +1,387 @@
+fileFormatVersion: 2
+guid: df134cbb5eb4f944f99869482c87e3d8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2450983666995896932
+    second: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+      1_0
+  - first:
+      213: 4535318425478689643
+    second: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+      1_1
+  - first:
+      213: -6695617497222612239
+    second: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+      1_2
+  - first:
+      213: 1233445892864521947
+    second: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+      1_3
+  - first:
+      213: -6621132950189219164
+    second: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+      1_4
+  - first:
+      213: -8519843976320442468
+    second: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+      1_5
+  - first:
+      213: -8427355398627827059
+    second: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+      1_6
+  - first:
+      213: 1476955462392542417
+    second: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+      1_7
+  - first:
+      213: 6537401314875920027
+    second: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+      1_8
+  - first:
+      213: 2855486888868227566
+    second: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+      1_9
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+        1_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 267
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b012ab34db992974b9566adcadee8912
+      internalID: -2450983666995896932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+        1_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 266
+        width: 49
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9f9205c2641e24285cd86634a5f8b3
+      internalID: 4535318425478689643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+        1_2
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 267
+        width: 74
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfa46484290a9a4eb79039077519e28
+      internalID: -6695617497222612239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+        1_3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 267
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4d265471777904182edd1493ee74bc
+      internalID: 1233445892864521947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+        1_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 267
+        width: 80
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f06a4663a36bf42a0ff1fdcb6841a3
+      internalID: -6621132950189219164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+        1_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 112
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b074aa1715b3408eab2a85ff6dd54
+      internalID: -8519843976320442468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+        1_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 112
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd73ca713ac19944bd29bf2331c320d
+      internalID: -8427355398627827059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+        1_7
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 112
+        width: 75
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64075e1404441a40af6be2b390d2fca
+      internalID: 1476955462392542417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+        1_8
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 112
+        width: 75
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e924146e02e5047a13df99fce30001
+      internalID: 6537401314875920027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-number-color-numerical-digit-arabic-numerals-color-key-5a9cc56eb4e820.336401081520223598741
+        1_9
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 112
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690c2f9abeac4d648945208f98179f09
+      internalID: 2855486888868227566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
